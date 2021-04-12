@@ -1,0 +1,9 @@
+bin
+obj
+
+.vs
+.vscode
+
+.Ds_Store
+
+Read.me
